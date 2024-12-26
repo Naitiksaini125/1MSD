@@ -12,3 +12,7 @@ body
 height: 200; width: 200;border:solid 1px black;}
 .lower { background-color: rgb(121, 107, 246);
 height: 200; width: 200; border: 20;}
+img{
+    width: 400px;
+    height: 500px;
+}
