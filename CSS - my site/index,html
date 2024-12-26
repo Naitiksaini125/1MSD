@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Naitik</title>
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="icon" href="favicon_io.zip">
+    </head>
+    <body>
+        
+        <div class="upper">
+            <img src="images/cloud.png" alt="cloud-img">
+            <h1>I'm Naitik</h1>
+            <p>A simple but rare guy</p>
+            <img src="images/cloud.png" alt="cloud-img">
+            <img src="images/mountain.png" alt="cloud-img">
+        </div>
+    <div class="middle"> 
+         </div>
+         <div class="lower">
+
+         </div>
+    </body>
+</html>

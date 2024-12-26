@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+div {
+    background-color: rgb(209, 246, 246);
+}
+body
+/*****CLASS SELECTOR*****/
+.middle { background-color: blanchedalmond;
+height: 200; width: 200;border:solid 1px black;}
+.lower { background-color: rgb(121, 107, 246);
+height: 200; width: 200; border: 20;}
