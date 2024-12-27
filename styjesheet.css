@@ -1,10 +1,10 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
 body {
 min-height: 100vh ;
-background-image:tech.jpeg;
+background-image: url(tech.jpeg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position-x: center;
