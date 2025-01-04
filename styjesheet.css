@@ -2,17 +2,11 @@
     margin: 0;
     padding: 0;
 }
-body {
-min-height: 100vh ;
-background-image: url(tech.jpeg);
-background-size: cover;
-background-repeat: no-repeat;
-background-position-x: center;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
+
 nav{
     background-color: aliceblue;
-    box-shadow: 3px 3px 5px rgba(from color r g b);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
 }
 nav ul {
     width: 100%;
@@ -23,6 +17,9 @@ nav ul {
 }
 nav li {
     height: 50px;
+}
+nav a{
+    height: 100%;
     padding: 0 30px;
     text-decoration: none;
     display: flex;
@@ -45,9 +42,9 @@ nav li:first-child{
     background-color: white;
     backdrop-filter: blur(10px);
     box-shadow: -10px 0 10px rgba[ 0, 0, 0, 0.1];
-    display: none;
-    flex direction:column;
-    align-items: flex-start;
+    display : none;
+    flex-direction:column;
+    align-items : flex-start;
     justify-content:flex-start;
 
 }
