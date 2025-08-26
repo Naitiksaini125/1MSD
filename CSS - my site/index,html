@@ -8,11 +8,11 @@
     <body>
         
         <div class="upper">
-            <img src="images/cloud.png" alt="cloud-img">
+            <img class="top-cloud" src="images/clouds.png" alt="clouds">
             <h1>I'm Naitik</h1>
             <p>A simple but rare guy</p>
-            <img src="images/cloud.png" alt="cloud-img">
-            <img src="images/mountain.png" alt="cloud-img">
+            <img class="bottom-cloud" src="images/clouds.png" alt="clouds">
+            <img c;ass="mountain" src="images/mountain.png" alt="mountain-img">
         </div>
     <div class="middle"> 
          </div>

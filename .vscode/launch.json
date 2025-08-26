@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "java.first",
+            "projectName": "web developement_ceccf1d1"
+        },
+        {
             "type": "msedge",
             "name": "http://127.0.0.1:3000/harsh.html",
             "request": "launch",
